@@ -6,10 +6,10 @@ export default {
     template: `
     <div @click="showmydata" class="bio-panel">
         <div class="p_avatar">
-        <img :src='"images/" + piece.image' :alt="piece.name">
+        <h2 class="p_name">{{ piece.user}}</h2>
         </div>
 
-        <h2 class="p_name">{{ piece.model}}</h2>
+       
        
     </div>
     `,
