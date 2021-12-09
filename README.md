@@ -2,7 +2,7 @@
 
 <h2>Contributors</h2>
 Elif Sarikaya
-Shirin H. Kazerooni
+-Shirin H. Kazerooni
 
 <h2>Built With</h2>
 Html
