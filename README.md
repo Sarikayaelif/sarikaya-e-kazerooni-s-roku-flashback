@@ -5,6 +5,7 @@
 ## Contributors: Elif Sarikaya, Shirin Kazerooni
 
 ### Built With Html, Css, Sass, Gulp, Sass, JavaScript, Node.Js, Vue.Js, MySQL, PHP and Ajax.
+### building an audio / video app in the Authoring class, using queries and database assets. Create assets based on the Roku Flashback.
 
 ### Design a mobile-first Application.
 
@@ -12,7 +13,7 @@
 
 ### Project Roadmap Files
 
-[Project Dev Google Doc Link](https://docs.google.com/document/d/1RHzAcSRVs5fCowruY2ndUVYoSPnZleMZi2eTVP9mnPE/edit?usp=sharing)
+[Project Dev Google Doc Link](https://docs.google.com/document/d/1RHzAcSRVs5fCowruY2ndUVYoSPnZleMZi2eTVP9mnPE/edit?usp=sharing) /
 [Project Design roadmp Google Doc Link](https://docs.google.com/document/d/1qURBo3gC8keiRv9owJ4qWxG5As0DFkzeIZJ_tR-vsnI/edit?usp=sharing)
 
 
